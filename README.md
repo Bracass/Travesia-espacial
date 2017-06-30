@@ -9,5 +9,7 @@ Juego de naves de 3 niveles
 Integrantes:
 
 Nicolas Niño Pineda -- 20162020116
+
 Kevin Alexander Diaz Pacheco -- 20162020105
+
 Brayan Castañeda -- 20162020110
