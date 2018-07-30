@@ -1,8 +1,4 @@
-import pygame
-import random
-import sys
-from menuP import menuP
-
+# a ver
 from pygame import *
 # Definimos algunos colores
 NEGRO = (0, 0, 0)
